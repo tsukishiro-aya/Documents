@@ -36,6 +36,10 @@ nav ul{
     width: 60%; /*横幅の指定*/
     margin-left: 20%;   /*左端から20%右側に動かす*/
 }
+<li class="nav-item active">
+              <a class="nav-link" href="what do I wear.html">WHAT DO I WEAR</a>
+                <span class="sr-only">(current)</span>
+           </li>
 nav li{
     width: calc(25% - 2px); /*横幅の指定（線の分をマイナスする）*/
     border-left: 1px solid orange;  /*線を描く*/
