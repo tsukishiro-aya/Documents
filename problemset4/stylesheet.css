@@ -127,3 +127,9 @@ article .btn:hover{
     color: orange;  /*文字色の指定*/
     overflow: hidden;   /*おまじない*/
 }
+
+img{
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
